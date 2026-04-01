@@ -1,26 +1,24 @@
 # 👋 Olá, eu sou a Dominique!  
 
-## Sobre mim  
-- Estudante de **Análise e Desenvolvimento de Sistemas** na UniCuritiba (3º semestre).  
-- Atualmente aprendendo sobre **cibersegurança**, **desenvolvimento Web** e me aprofundando em **gestão de projetos**.  
-- Experiência prévia na área ambiental, onde atuei com campanhas e consultoria ambiental.  
-- Apaixonada por tecnologia e pelo potencial de inovação para resolver problemas reais e transformar o mundo!  
+## Sobre mim
+- Estudante de **Análise e Desenvolvimento de Sistemas** na UniCuritiba (5º semestre).
+- Atualmente, sou estagiária na **Secretaria da Educação do Paraná (SEED-PR)**, vivenciando o dia a dia da tecnologia, fluxos e processos no setor público.
+- Em transição de carreira: trago mais de 2 anos de experiência como Técnica Ambiental. Hoje, aplico essa visão analítica, organização e foco em resolução de problemas na área de TI.
+- Focada em **Desenvolvimento Web**, **Cibersegurança** e **Metodologias Ágeis**.
+- Meu objetivo é unir tecnologia, design de interfaces e sustentabilidade para criar sistemas inovadores e funcionais.
 
-## Interesses  
-- 👀 Tenho interesse em:  
-  - Desenvolvimento de sistemas inovadores;  
-  - Gestão de projetos e metodologias ágeis;  
-  - Sustentabilidade integrada à tecnologia;  
-  - Redes computacionais e infraestrutura de TI.  
+## Minha Caixa de Ferramentas
+- **Linguagens & Frameworks:** C#, ASP.NET Core MVC, JavaScript, HTML5, CSS3.
+- **Ferramentas & Conceitos:** Git, Gestão de Projetos, Redes, Infraestrutura de TI e Design Visual.
 
-## Experiência  
-- 🌟 **Técnica ambiental formada**, com 2 anos e meio de atuação na área, incluindo gestão de campanhas ambientais e consultoria para empresas.  
-- 🔗 Transição para o setor de TI, onde busco aplicar minha experiência em gestão e organização para desenvolver soluções tecnológicas eficazes.  
+## Experiência Profissional & Projetos
+- **Estágio na Secretaria da Educação do Paraná (SEED-PR):** 
 
-## Curiosidades  
-- Pronomes: Ela/Dela  
-- Tenho duas gatinhas brancas! Uma é gordinha e de olhos azuis, enquanto a outra é mais comprida, com olhos verde-amarelados.  
-- Fato curioso: Adoro aprender coisas novas, seja através de cursos, livros ou desafios práticos.  
+## Curiosidades
+- Mãe de duas gatinhas brancas (uma gordinha de olhos azuis e uma esguia de olhos verde-amarelados).
+- Dedicada a aprimorar o inglês focado no ambiente corporativo e leitura técnica avançada.
+- Tenho um forte interesse por criação visual e design de interfaces.
 
-## Como me encontrar  
-- 📫 **E-mail:** [dominique.mariah.vltr@gmail.com)   
+## Como me encontrar
+- 📧 E-mail: dominique.mariah.vltr@gmail.com
+
