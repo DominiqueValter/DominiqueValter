@@ -1,11 +1,5 @@
 ````md
-<p align="center">
-  【
-  <a href="URL_PARA_README_ENGLISH">English</a> |
-  <a href="URL_PARA_README_PORTUGUES">Português</a> |
-  <a href="URL_PARA_README_ESPANOL">Español</a>
-  】
-</p>
+<p align="center"> 【 <a href="README.en.md">English</a> | <a href="README.md">Português</a> | <a href="README.es.md">Español</a> 】 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:18181b,100:7c3aed&text=Dominique%20Mariah%20Valter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20.NET%20•%20UI/UX&descAlignY=58"/>
 
