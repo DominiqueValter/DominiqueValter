@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
     【<a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.English.md">English</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.md">Português</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.Spanish.md">Español</a>】
 </p>
@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Sempre+aprendendo+algo+novo" />
 </p>
 
-````
 
 # 👋 Sobre mim
 
