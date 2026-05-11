@@ -20,5 +20,4 @@
 - Tenho um forte interesse por criação visual e design de interfaces.
 
 ## Como me encontrar
-- 📧 E-mail: dominique.mariah.vltr@gmail.com
-
+- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dominiquevltr.contato@gmail.com)
