@@ -1,4 +1,4 @@
-````md id="m3k9qp"
+
 <p align="center">
   【
   <a href="README.en.md">English</a> |
@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+and+Modern+Interfaces;Always+learning+something+new" />
 </p>
 
----
+
 
 # 👋 About Me
 
