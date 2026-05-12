@@ -1,4 +1,3 @@
-
 <p align="center">
   【
   <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.en.md">English</a> |
@@ -13,6 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+Junior;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Sempre+aprendendo+algo+novo" />
 </p>
 
+---
 
 # 👋 Sobre mim
 
@@ -22,7 +22,7 @@
 🎨 Interesse em UI/UX e experiências visuais
 🧠 Apaixonada por tecnologia e resolução de problemas
 📍 Curitiba - PR
-````
+```
 
 Atualmente atuo como estagiária em Desenvolvimento de Sistemas na Secretaria da Educação do Paraná, participando do desenvolvimento e manutenção de sistemas internos, correção de bugs, suporte técnico e levantamento de requisitos.
 
@@ -30,13 +30,41 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
+# 🎯 Objetivo Atual
+
+Buscando evoluir como Desenvolvedora Full Stack, aprofundando conhecimentos em React, ASP.NET Core, arquitetura de software e experiência do usuário.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+
+# ⚡ Destaques
+
+✔️ Estagiária em Desenvolvimento de Sistemas  
+✔️ Experiência com React e .NET  
+✔️ Interesse em UI/UX  
+✔️ Conhecimento em APIs REST  
+✔️ Aprendendo arquitetura de software  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+
 # 🚀 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,java,html,css,mysql,git,github,vscode,figma" />
+
+### Front-end
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+
+### Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java" />
+
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 📚 Atualmente estudando
 
@@ -48,7 +76,21 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 * Integração Front-end e Back-end
 * Fundamentos de Cibersegurança
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+
+# 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DominiqueValter&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueValter&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DominiqueValter&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 💼 Experiência
 
@@ -60,64 +102,66 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 * Levantamento de requisitos
 * Utilização de React, JavaScript, C#, Node.js, HTML e CSS
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # ✨ Projetos em Destaque
 
 <table>
 <tr>
-<td width="33%">
-
-## 🎵 Spotify Clone
-Clone inspirado no Spotify utilizando Node.js, JavaScript e CSS.
-
-🔹 Full Stack  
-🔹 Interface responsiva  
-🔹 Integração Front + Back-end
-
-</td>
-
-<td width="33%">
-
-## 🚗 Fleet Management
-Sistema de gerenciamento de veículos com React e ASP.NET Core.
-
-🔹 Arquitetura em Camadas  
-🔹 CRUD completo  
-🔹 API REST
-
-</td>
-
-<td width="33%">
-
-## 🌱​​ Atakama Consultoria Ambiental e Engenharia Civil
-Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
-
-🔹 Arquitetura em Camadas  
-🔹 CRUD completo  
-🔹 API REST
-
-</td>
-</tr>
-</table>
+<td width="50%">
 
 ## 🎵 Spotify Clone
 
 Aplicação Full Stack inspirada no Spotify utilizando JavaScript, Node.js, HTML e CSS.
 
----
+🔹 Interface responsiva  
+🔹 Integração Front-end e Back-end  
+🔹 Player de músicas  
+
+</td>
+
+<td width="50%">
 
 ## 🚗 Fleet Management System
 
 Sistema de gerenciamento de veículos utilizando React, ASP.NET Core e arquitetura em camadas.
 
----
+🔹 CRUD completo  
+🔹 API REST  
+🔹 Interface moderna  
 
-## 🌱​​ Atakama Consultoria Ambiental e Engenharia Civil
+</td>
+</tr>
 
-Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
+<tr>
+<td width="50%">
 
----
+## 🌱 Atakama Engenharia
+
+Sistema de gerenciamento de obras e projetos utilizando TypeScript.
+
+🔹 Organização de projetos  
+🔹 Gestão de informações  
+🔹 Interface moderna  
+
+</td>
+
+<td width="50%">
+
+## 👩‍💻 Em desenvolvimento...
+
+Novos projetos estão sendo desenvolvidos focando em:
+
+🔹 React  
+🔹 ASP.NET Core  
+🔹 UI/UX  
+🔹 Arquitetura limpa  
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🎓 Formação
 
@@ -125,7 +169,7 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 * Técnico em Meio Ambiente — CEEP Curitiba
 * 🏆 TCC reconhecido como o melhor da turma
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🌎 Idiomas
 
@@ -138,15 +182,17 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 
 <p align="center">
 
-<a href="LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="LINK_DO_SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dominiquevltr.contato@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🐍 Contribuições
 
