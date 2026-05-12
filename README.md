@@ -38,7 +38,7 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 ✔️ Conhecimento em APIs REST  
 ✔️ Aprendendo arquitetura de software  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 🚀 Tecnologias
 
