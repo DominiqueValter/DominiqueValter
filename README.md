@@ -172,12 +172,10 @@ Novos projetos estão sendo desenvolvidos focando em:
 <p align="center">
 
 <a href="https://github.com/DominiqueValter">
-  <img src="https://github.com/DominiqueValter?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="LINK_DO_SEU_LINKEDIN">
-  <img src="www.linkedin.com/in/dominique-valter-530746216?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="www.linkedin.com/in/dominique-valter-530746216">
+  <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <a href="mailto:dominiquevltr.contato@gmail.com">
   <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
