@@ -31,14 +31,12 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 ---
 
 # 🚀 Tecnologias
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,java,html,css,mysql,git,github,vscode,figma" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DominiqueValter&theme=dracula" />
-</p>
-
+  <br><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DominiqueValter&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueValter&layout=compact&theme=dracula" />
+</div>
 ---
 
 # 📚 Atualmente estudando
