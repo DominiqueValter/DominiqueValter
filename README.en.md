@@ -83,22 +83,6 @@ A project and construction management system using TypeScript.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominiqueValter&theme=radical"/>
-</p>
-
----
-
-# 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DominiqueValter&theme=react-dark"/>
-</p>
-
----
-
 # 🎓 Education
 
 * Systems Analysis and Development — UniCuritiba
