@@ -28,7 +28,7 @@ Atualmente atuo como estagiária em Desenvolvimento de Sistemas na Secretaria da
 
 Também tenho experiência anterior na área ambiental, onde desenvolvi organização, análise de dados e documentação técnica — habilidades que hoje aplico no desenvolvimento de software e gestão de projetos.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🚀 Tecnologias
 
@@ -36,7 +36,7 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,java,html,css,mysql,git,github,vscode,figma" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 📚 Atualmente estudando
 
