@@ -1,6 +1,10 @@
 
 <p align="center">
-    【<a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.English.md">English</a> | <a href="https://github.com/DominiqueValter">Português</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.Spanish.md">Español</a>】
+  【
+  <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.en.md">English</a> |
+  <a href="https://github.com/DominiqueValter">Português</a> |
+  <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.es.md">Español</a>
+  】
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:18181b,100:7c3aed&text=Dominique%20Mariah%20Valter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20•%20React%20•%20.NET%20•%20UI/UX&descAlignY=58"/>
