@@ -1,4 +1,4 @@
-
+````md
 <p align="center">
   【
   <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.en.md">English</a> |
@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Junior+Full+Stack+Developer;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+and+Modern+Interfaces;Always+learning+something+new" />
 </p>
 
-
+---
 
 # 👋 About Me
 
@@ -25,31 +25,64 @@
 📍 Curitiba - PR, Brazil
 ````
 
-Currently working as a Systems Development Intern at the Paraná State Department of Education, contributing to internal systems maintenance, bug fixing, technical support and requirements gathering.
+Currently working as a Systems Development Intern at the Paraná State Department of Education, contributing to the development and maintenance of internal systems, bug fixing, technical support, and requirements gathering.
 
-I also have previous experience in the environmental field, where I developed organization, analytical thinking and technical documentation skills — abilities that I now apply in software development and project management.
+I also have previous experience in the environmental field, where I developed organization, data analysis, and technical documentation skills — abilities that I now apply to software development and project management.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+
+# ⚡ Highlights
+
+✔️ Systems Development Intern
+✔️ Experience with React and .NET
+✔️ Interested in UI/UX
+✔️ Knowledge of REST APIs
+✔️ Learning software architecture
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🚀 Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,java,html,css,mysql,git,github,vscode,figma" />
-</p>
+<div align="center">
 
----
+### Front-end
 
-# 📚 Currently Learning
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+
+### Back-end
+
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+
+# 📚 Currently Studying
 
 * React and ASP.NET Core
 * Layered Architecture
 * REST APIs
 * UI/UX
 * Clean Code
-* Front-end & Back-end Integration
-* Cybersecurity Fundamentals
+* Front-end and Back-end Integration
 
 ---
+
+# 📊 Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DominiqueValter&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 💼 Experience
 
@@ -59,29 +92,68 @@ I also have previous experience in the environmental field, where I developed or
 * Bug fixing and feature improvements
 * Technical support for users and systems
 * Requirements gathering
-* Using React, JavaScript, C#, Node.js, HTML and CSS
+* Using React, JavaScript, C#, Node.js, HTML, and CSS
 
 ---
 
 # ✨ Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🎵 Spotify Clone
 
-Full Stack application inspired by Spotify using JavaScript, Node.js, HTML and CSS.
+Full Stack application inspired by Spotify using JavaScript, Node.js, HTML, and CSS.
 
----
+🔹 Responsive interface
+🔹 Front-end and Back-end integration
+🔹 Music player
+
+</td>
+
+<td width="50%">
 
 ## 🚗 Fleet Management System
 
-Vehicle management system using React, ASP.NET Core and layered architecture.
+Vehicle management system using React, ASP.NET Core, and layered architecture.
 
----
+🔹 Complete CRUD
+🔹 REST API
+🔹 Modern interface
 
-## 🌱​​ Atakama Environmental Consulting and Civil Engineering
+</td>
+</tr>
 
-A project and construction management system using TypeScript.
+<tr>
+<td width="50%">
 
----
+## 🌱 Atakama Engineering
+
+Construction and project management system using TypeScript.
+
+🔹 Project organization
+🔹 Information management
+🔹 Modern interface
+
+</td>
+
+<td width="50%">
+
+## 👩‍💻 In Development...
+
+New projects are being developed focusing on:
+
+🔹 React
+🔹 ASP.NET Core
+🔹 UI/UX
+🔹 Clean Architecture
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🎓 Education
 
@@ -96,28 +168,32 @@ A project and construction management system using TypeScript.
 * English — Intermediate (B2)
 * Spanish — Intermediate (B2)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 📬 Contact
 
 <p align="center">
+  💜 Always open to learning, collaborating, and developing new projects.
+</p>
 
-<a href="LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+
+<a href="https://github.com/DominiqueValter">
+  <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="LINK_DO_SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dominiquevltr.contato@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://discord.com/users/SEU_ID">
+  <img src="https://img.shields.io/badge/Discord-18181b?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
----
-
-# 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
