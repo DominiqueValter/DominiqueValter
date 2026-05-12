@@ -125,10 +125,6 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfólio-18181b?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -140,4 +136,3 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
-```
