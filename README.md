@@ -58,17 +58,6 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
-
-# 📚 Atualmente estudando
-
-* React e ASP.NET Core
-* Arquitetura em Camadas
-* APIs REST
-* UI/UX
-* Clean Code
-* Integração Front-end e Back-end
-
 ---
 
 # 📊 Estatísticas
