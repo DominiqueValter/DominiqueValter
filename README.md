@@ -11,12 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+Junior;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Sempre+aprendendo+algo+novo" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-A855F7?style=flat"/>
-</p>
 
 ---
 
@@ -174,17 +168,26 @@ Novos projetos estão sendo desenvolvidos focando em:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 📬 Contato
-
 <p align="center">
+  💜 Sempre aberta para aprender, colaborar e desenvolver novos projetos.
+</p>
+<p align="center">
+
+<a href="https://github.com/DominiqueValter">
+  <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="LINK_DO_SEU_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dominiquevltr.contato@gmail.com">
-  <img src="https://img.shields.io/badge/Email-18181b?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/SEU_ID">
+  <img src="https://img.shields.io/badge/Discord-18181b?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
