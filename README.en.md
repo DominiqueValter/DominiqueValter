@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   【
   <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.en.md">English</a> |
@@ -46,19 +46,15 @@ I also have previous experience in the environmental field, where I developed or
 <div align="center">
 
 ### Front-end
-
 <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
 
 ### Back-end
-
 <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java" />
 
 ### Database
-
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 ### Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
@@ -197,4 +193,4 @@ New projects are being developed focusing on:
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
-```
+
