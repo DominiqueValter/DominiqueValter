@@ -1,9 +1,8 @@
-````md id="d91xka"
 <p align="center">
   【
-  <a href="README.en.md">English</a> |
-  <a href="README.md">Português</a> |
-  <a href="README.es.md">Español</a>
+  <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.en.md">English</a> |
+  <a href="https://github.com/DominiqueValter">Português</a> |
+  <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.es.md">Español</a>
   】
 </p>
 
@@ -12,8 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desarrolladora+Full+Stack;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Siempre+aprendiendo+algo+nuevo" />
 </p>
-
----
 
 # 👋 Sobre mí
 
