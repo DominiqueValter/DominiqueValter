@@ -30,12 +30,6 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
-# 🎯 Objetivo Atual
-
-Buscando evoluir como Desenvolvedora Full Stack, aprofundando conhecimentos em React, ASP.NET Core, arquitetura de software e experiência do usuário.
-
----
-
 # ⚡ Destaques
 
 ✔️ Estagiária em Desenvolvimento de Sistemas  
