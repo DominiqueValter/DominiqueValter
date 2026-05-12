@@ -181,12 +181,4 @@ Novos projetos estão sendo desenvolvidos focando em:
 
 </p>
 
----
-
-# 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
