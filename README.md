@@ -72,9 +72,9 @@ Sistema de gerenciamento de veículos utilizando React, ASP.NET Core e arquitetu
 
 ---
 
-## 👻 Ecos do Passado
+## 🌱​​ Atakama Consultoria Ambiental e Engenharia Civil
 
-Projeto de jogo narrativo sobrenatural focado em investigação, storytelling e construção de universo.
+Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 
 ---
 
