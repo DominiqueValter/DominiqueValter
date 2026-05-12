@@ -64,6 +64,43 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 # ✨ Projetos em Destaque
 
+<table>
+<tr>
+<td width="50%">
+
+## 🎵 Spotify Clone
+Clone inspirado no Spotify utilizando Node.js, JavaScript e CSS.
+
+🔹 Full Stack  
+🔹 Interface responsiva  
+🔹 Integração Front + Back-end
+
+</td>
+
+<td width="50%">
+
+## 🚗 Fleet Management
+Sistema de gerenciamento de veículos com React e ASP.NET Core.
+
+🔹 Arquitetura em Camadas  
+🔹 CRUD completo  
+🔹 API REST
+
+</td>
+
+<td width="50%">
+
+## 🌱​​ Atakama Consultoria Ambiental e Engenharia Civil
+Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
+
+🔹 Arquitetura em Camadas  
+🔹 CRUD completo  
+🔹 API REST
+
+</td>
+</tr>
+</table>
+
 ## 🎵 Spotify Clone
 
 Aplicação Full Stack inspirada no Spotify utilizando JavaScript, Node.js, HTML e CSS.
