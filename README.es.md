@@ -6,10 +6,10 @@
   】
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:18181b,100:7c3aed&text=Dominique%20Mariah%20Valter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20.NET%20•%20UI/UX&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:18181b,100:7c3aed&text=Dominique%20Mariah%20Valter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20•%20React%20•%20.NET%20•%20UI/UX&descAlignY=58"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desarrolladora+Full+Stack;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Siempre+aprendiendo+algo+nuevo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desarrolladora+Junior+Full+Stack;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Siempre+aprendiendo+algo+nuevo" />
 </p>
 
 # 👋 Sobre mí
@@ -74,19 +74,13 @@ Sistema de gestión de vehículos utilizando React, ASP.NET Core y arquitectura 
 
 ---
 
-## 👻 Ecos do Passado
+## 🌱​​ Atakama Consultoría Ambiental e Ingeniería Civil
 
-Proyecto de juego narrativo sobrenatural enfocado en investigación, storytelling y construcción de universo.
+Un sistema de gestión de proyectos y construcción que utiliza TypeScript.
 
 ---
 
 # 📊 Estadísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DominiqueValter&show_icons=true&theme=radical"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueValter&layout=compact&theme=radical"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominiqueValter&theme=radical"/>
@@ -129,10 +123,6 @@ Proyecto de juego narrativo sobrenatural enfocado en investigación, storytellin
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portafolio-18181b?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -144,4 +134,4 @@ Proyecto de juego narrativo sobrenatural enfocado en investigación, storytellin
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
-```
+
