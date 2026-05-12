@@ -60,7 +60,7 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 * Levantamento de requisitos
 * Utilização de React, JavaScript, C#, Node.js, HTML e CSS
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # ✨ Projetos em Destaque
 
