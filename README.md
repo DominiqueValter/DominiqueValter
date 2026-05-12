@@ -48,7 +48,7 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 * Integração Front-end e Back-end
 * Fundamentos de Cibersegurança
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 💼 Experiência
 
@@ -60,7 +60,7 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 * Levantamento de requisitos
 * Utilização de React, JavaScript, C#, Node.js, HTML e CSS
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # ✨ Projetos em Destaque
 
@@ -68,19 +68,19 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 Aplicação Full Stack inspirada no Spotify utilizando JavaScript, Node.js, HTML e CSS.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 ## 🚗 Fleet Management System
 
 Sistema de gerenciamento de veículos utilizando React, ASP.NET Core e arquitetura em camadas.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 ## 🌱​​ Atakama Consultoria Ambiental e Engenharia Civil
 
 Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🎓 Formação
 
@@ -88,14 +88,14 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 * Técnico em Meio Ambiente — CEEP Curitiba
 * 🏆 TCC reconhecido como o melhor da turma
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🌎 Idiomas
 
 * Inglês — Intermediário (B2)
 * Espanhol — Intermediário (B2)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 📬 Contato
 
@@ -109,7 +109,7 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 🐍 Contribuições
 
