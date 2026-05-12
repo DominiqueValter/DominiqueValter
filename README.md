@@ -34,7 +34,7 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 Buscando evoluir como Desenvolvedora Full Stack, aprofundando conhecimentos em React, ASP.NET Core, arquitetura de software e experiência do usuário.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # ⚡ Destaques
 
@@ -81,10 +81,6 @@ Buscando evoluir como Desenvolvedora Full Stack, aprofundando conhecimentos em R
 # 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DominiqueValter&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueValter&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DominiqueValter&theme=midnight-purple&hide_border=true"/>
@@ -102,7 +98,7 @@ Buscando evoluir como Desenvolvedora Full Stack, aprofundando conhecimentos em R
 * Levantamento de requisitos
 * Utilização de React, JavaScript, C#, Node.js, HTML e CSS
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # ✨ Projetos em Destaque
 
@@ -169,7 +165,7 @@ Novos projetos estão sendo desenvolvidos focando em:
 * Técnico em Meio Ambiente — CEEP Curitiba
 * 🏆 TCC reconhecido como o melhor da turma
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 🌎 Idiomas
 
@@ -192,7 +188,7 @@ Novos projetos estão sendo desenvolvidos focando em:
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 🐍 Contribuições
 
