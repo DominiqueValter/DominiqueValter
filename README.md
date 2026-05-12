@@ -74,8 +74,6 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 # 📊 Estatísticas
 
 <p align="center">
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=DominiqueValter&theme=midnight-purple&hide_border=true"/>
 </p>
 
