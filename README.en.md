@@ -1,9 +1,9 @@
 
 <p align="center">
   【
-  <a href="README.en.md">English</a> |
+  <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.en.md">English</a> |
   <a href="https://github.com/DominiqueValter">Português</a> |
-  <a href="README.es.md">Español</a>
+  <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.es.md">Español</a>
   】
 </p>
 
