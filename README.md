@@ -3,10 +3,10 @@
     【<a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.English.md">English</a> | <a href="https://github.com/DominiqueValter">Português</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.Spanish.md">Español</a>】
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:18181b,100:7c3aed&text=Dominique%20Mariah%20Valter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20.NET%20•%20UI/UX&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:18181b,100:7c3aed&text=Dominique%20Mariah%20Valter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20•%20React%20•%20.NET%20•%20UI/UX&descAlignY=58"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+Junior;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Sempre+aprendendo+algo+novo" />
 </p>
 
 
@@ -79,10 +79,6 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 ---
 
 # 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominiqueValter&layout=compact&theme=radical"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominiqueValter&theme=radical"/>
