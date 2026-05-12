@@ -174,7 +174,7 @@ Novos projetos estão sendo desenvolvidos focando em:
 <a href="https://github.com/DominiqueValter">
   <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="www.linkedin.com/in/dominique-valter-530746216">
+<a href="https://www.linkedin.com/in/dominique-valter-530746216">
   <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <a href="mailto:dominiquevltr.contato@gmail.com">
