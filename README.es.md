@@ -62,32 +62,6 @@ También tengo experiencia previa en el área ambiental, donde desarrollé organ
 
 # ✨ Proyectos Destacados
 
-<table>
-<tr>
-<td width="50%">
-
-## 🎵 Spotify Clone
-Clone inspirado no Spotify utilizando Node.js, JavaScript e CSS.
-
-🔹 Full Stack  
-🔹 Interface responsiva  
-🔹 Integração Front + Back-end
-
-</td>
-
-<td width="50%">
-
-## 🚗 Fleet Management
-Sistema de gerenciamento de veículos com React e ASP.NET Core.
-
-🔹 Arquitetura em Camadas  
-🔹 CRUD completo  
-🔹 API REST
-
-</td>
-</tr>
-</table>
-
 ## 🎵 Spotify Clone
 
 Aplicación Full Stack inspirada en Spotify utilizando JavaScript, Node.js, HTML y CSS.
