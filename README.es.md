@@ -80,22 +80,6 @@ Un sistema de gestión de proyectos y construcción que utiliza TypeScript.
 
 ---
 
-# 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominiqueValter&theme=radical"/>
-</p>
-
----
-
-# 📈 Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DominiqueValter&theme=react-dark"/>
-</p>
-
----
-
 # 🎓 Educación
 
 * Análisis y Desarrollo de Sistemas — UniCuritiba
