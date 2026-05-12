@@ -66,7 +66,7 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ## 🎵 Spotify Clone
 Clone inspirado no Spotify utilizando Node.js, JavaScript e CSS.
@@ -77,7 +77,7 @@ Clone inspirado no Spotify utilizando Node.js, JavaScript e CSS.
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
 ## 🚗 Fleet Management
 Sistema de gerenciamento de veículos com React e ASP.NET Core.
@@ -88,7 +88,7 @@ Sistema de gerenciamento de veículos com React e ASP.NET Core.
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
 ## 🌱​​ Atakama Consultoria Ambiental e Engenharia Civil
 Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
