@@ -108,7 +108,14 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 <a href="mailto:dominiquevltr.contato@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<p align="left">
+<a href="https://linkedin.com/in/SEU_USER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DominiqueValter" height="30" width="40" /></a>
+<a href="mailto:dominiquevltr.contato@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="DominiqueValter" height="30" width="40" /></a>
+</p>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DominiqueValter&label=Perfil%20Views&color=7c3aed&style=flat" alt="Views" />
 </p>
 
 ---
