@@ -109,10 +109,6 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DominiqueValter&label=Perfil%20Views&color=7c3aed&style=flat" alt="Views" />
-</p>
-
 ---
 
 # 🐍 Contribuições
