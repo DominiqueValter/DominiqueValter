@@ -31,9 +31,11 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 ---
 
 # 🚀 Tecnologias
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,java,html,css,mysql,git,github,vscode,figma" />
 </div>
+
 ---
 
 # 📚 Atualmente estudando
