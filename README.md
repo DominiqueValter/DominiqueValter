@@ -28,7 +28,7 @@ Atualmente atuo como estagiária em Desenvolvimento de Sistemas na Secretaria da
 
 Também tenho experiência anterior na área ambiental, onde desenvolvi organização, análise de dados e documentação técnica — habilidades que hoje aplico no desenvolvimento de software e gestão de projetos.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 🚀 Tecnologias
 
@@ -36,7 +36,7 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,cs,dotnet,java,html,css,mysql,git,github,vscode,figma" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 📚 Atualmente estudando
 
@@ -68,19 +68,19 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 Aplicação Full Stack inspirada no Spotify utilizando JavaScript, Node.js, HTML e CSS.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 ## 🚗 Fleet Management System
 
 Sistema de gerenciamento de veículos utilizando React, ASP.NET Core e arquitetura em camadas.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 ## 🌱​​ Atakama Consultoria Ambiental e Engenharia Civil
 
 Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 🎓 Formação
 
@@ -88,7 +88,7 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
 * Técnico em Meio Ambiente — CEEP Curitiba
 * 🏆 TCC reconhecido como o melhor da turma
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 🌎 Idiomas
 
@@ -109,7 +109,7 @@ Um sistema de gerenciamento de obras e projetos utilizando TypeScript.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 🐍 Contribuições
 
