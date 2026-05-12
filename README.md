@@ -68,9 +68,8 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 * UI/UX
 * Clean Code
 * Integração Front-end e Back-end
-* Fundamentos de Cibersegurança
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
 # 📊 Estatísticas
 
