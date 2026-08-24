@@ -17,7 +17,7 @@
 # 👋 Sobre mim
 
 ```txt
-💻 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Formada em Análise e Desenvolvimento de Sistemas e estudante de ciêcia da computação
 🚀 Desenvolvedora Full Stack focada em aplicações web
 🎨 Interesse em UI/UX e experiências visuais
 🧠 Apaixonada por tecnologia e resolução de problemas
