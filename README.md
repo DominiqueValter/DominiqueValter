@@ -9,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:18181b,100:7c3aed&text=Dominique%20Mariah%20Valter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20•%20React%20•%20.NET%20•%20UI/UX&descAlignY=58"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+Junior;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+e+Interfaces+Modernas;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack+Junior;React+%7C+ASP.NET+Core+%7C+PostgreSQL;Docker+%7C+Deploy+em+Produ%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo" />
 </p>
 
 ---
@@ -17,26 +17,26 @@
 # 👋 Sobre mim
 
 ```txt
-💻 Formada em Análise e Desenvolvimento de Sistemas e estudante de ciêcia da computação
-🚀 Desenvolvedora Full Stack focada em aplicações web
+💻 Formada em Análise e Desenvolvimento de Sistemas, cursando Ciência da Computação
+🚀 Desenvolvedora Full Stack com experiência em sistemas de grande escala
 🎨 Interesse em UI/UX e experiências visuais
 🧠 Apaixonada por tecnologia e resolução de problemas
 📍 Curitiba - PR
 ```
 
-Atualmente atuo como estagiária em Desenvolvimento de Sistemas na Secretaria da Educação do Paraná, participando do desenvolvimento e manutenção de sistemas internos, correção de bugs, suporte técnico e levantamento de requisitos.
+Atualmente atuo como estagiária de Desenvolvimento de Sistemas na Secretaria de Estado da Educação do Paraná (DTI/CODIS), contribuindo para sistemas que atendem à rede estadual de ensino — incluindo plataformas com mais de 1 milhão de usuários ativos e sistemas administrativos de grande escala.
 
-Também tenho experiência anterior na área ambiental, onde desenvolvi organização, análise de dados e documentação técnica — habilidades que hoje aplico no desenvolvimento de software e gestão de projetos.
+Também desenvolvo projetos autônomos, do front-end ao deploy em produção, e tenho experiência anterior na área ambiental, onde desenvolvi organização, análise de dados e documentação técnica.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # ⚡ Destaques
 
-✔️ Estagiária em Desenvolvimento de Sistemas  
-✔️ Experiência com React e .NET  
-✔️ Interesse em UI/UX  
-✔️ Conhecimento em APIs REST  
-✔️ Aprendendo arquitetura de software  
+✔️ Estagiária de Desenvolvimento Full Stack — contribuo para sistemas de grande escala  
+✔️ Experiência com React, ASP.NET Core e PostgreSQL  
+✔️ Containerização com Docker e deploy em produção (Railway)  
+✔️ Interesse em UI/UX e arquitetura de software  
+✔️ Projeto freelance remunerado entregue e no ar  
 
 ---
 
@@ -45,16 +45,16 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 <div align="center">
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
 ### Back-end
 <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java" />
 
-### Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql" />
+### Banco de Dados & DevOps
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github" />
 
 ### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,figma" />
 
 </div>
 
@@ -62,13 +62,13 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 
 # 💼 Experiência
 
-## Estagiária em Desenvolvimento de Sistemas — SEED/PR
+## Estagiária de Desenvolvimento Full Stack — SEED-PR (DTI/CODIS)
 
-* Desenvolvimento e manutenção de sistemas internos
-* Correção de bugs e melhorias em funcionalidades
-* Suporte técnico a usuários e sistemas
-* Levantamento de requisitos
-* Utilização de React, JavaScript, C#, Node.js, HTML e CSS
+* Contribuição em sistemas de grande escala: plataforma educacional com +1 milhão de usuários ativos, sistema administrativo de gestão de terceirizados, e plataforma de admissão universitária
+* Correção de bugs críticos e implementação de melhorias
+* Criação e integração de APIs REST
+* Levantamento de requisitos com stakeholders técnicos e não-técnicos
+* Stack: C# (ASP.NET Core), React, JavaScript, HTML, CSS
 
 ---
 
@@ -78,25 +78,29 @@ Também tenho experiência anterior na área ambiental, onde desenvolvi organiza
 <tr>
 <td width="50%">
 
-## 🎵 Spotify Clone
+## 🚗 Fleet Management System
 
-Aplicação Full Stack inspirada no Spotify utilizando JavaScript, Node.js, HTML e CSS.
+Sistema full-stack de gestão de frotas — cadastro de veículos, manutenções preventivas e controle de motoristas. Containerizado com Docker e publicado em produção.
 
-🔹 Interface responsiva  
-🔹 Integração Front-end e Back-end  
-🔹 Player de músicas  
+🔹 CRUD completo com EF Core  
+🔹 3 serviços em produção (API + Front-end + PostgreSQL)  
+🔹 [Demo ao vivo](https://fleet-management-dominique.up.railway.app)
+
+**Stack:** React · ASP.NET Core Web API · PostgreSQL · Docker
 
 </td>
 
 <td width="50%">
 
-## 🚗 Fleet Management System
+## 🌱 Atakama Soluções Ambientais
 
-Sistema de gerenciamento de veículos utilizando React, ASP.NET Core e arquitetura em camadas.
+Site institucional para consultoria de regularização ambiental. Projeto freelance remunerado, com foco em experiência visual premium.
 
-🔹 CRUD completo  
-🔹 API REST  
-🔹 Interface moderna  
+🔹 Animações fluidas inspiradas em padrões Apple  
+🔹 Responsável pelo Front-End completo  
+🔹 [Ver site](https://atakamasolucoes.com)
+
+**Stack:** HTML · CSS Avançado · JavaScript
 
 </td>
 </tr>
@@ -104,26 +108,29 @@ Sistema de gerenciamento de veículos utilizando React, ASP.NET Core e arquitetu
 <tr>
 <td width="50%">
 
-## 🌱 Atakama Engenharia
+## 🎵 Spotify Clone
 
-Sistema de gerenciamento de obras e projetos utilizando TypeScript.
+Aplicação full-stack inspirada no Spotify.
 
-🔹 Organização de projetos  
-🔹 Gestão de informações  
-🔹 Interface moderna  
+🔹 Interface responsiva  
+🔹 Integração Front-end e Back-end  
+🔹 Player de músicas
+
+**Stack:** JavaScript · Node.js · HTML · CSS
 
 </td>
 
 <td width="50%">
 
-## 👩‍💻 Em desenvolvimento...
+## 💄 Morais Cosméticos (em desenvolvimento)
 
-Novos projetos estão sendo desenvolvidos focando em:
+E-commerce completo em construção — loja, pagamentos, cupons e programa de fidelidade.
 
-🔹 React  
-🔹 ASP.NET Core  
-🔹 UI/UX  
-🔹 Arquitetura limpa  
+🔹 Backend com NestJS + Prisma  
+🔹 Pagamentos via Pix/cartão  
+🔹 Emissão automatizada de NF-e
+
+**Stack:** React · NestJS · PostgreSQL
 
 </td>
 </tr>
@@ -133,23 +140,25 @@ Novos projetos estão sendo desenvolvidos focando em:
 
 # 🎓 Formação
 
-* Análise e Desenvolvimento de Sistemas — UniCuritiba
+* Bacharelado em Ciência da Computação — UniCuritiba *(em andamento)*
+* Tecnóloga em Análise e Desenvolvimento de Sistemas — UniCuritiba
 * Técnico em Meio Ambiente — CEEP Curitiba
-* 🏆 TCC reconhecido como o melhor da turma
 
 ---
 
 # 🌎 Idiomas
 
-* Inglês — Intermediário (B2)
-* Espanhol — Intermediário (B2)
+* Inglês — Intermediário
+* Espanhol — Intermediário
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 📬 Contato
+
 <p align="center">
   💜 Sempre aberta para aprender, colaborar e desenvolver novos projetos.
 </p>
+
 <p align="center">
 
 <a href="https://github.com/DominiqueValter">
@@ -158,13 +167,14 @@ Novos projetos estão sendo desenvolvidos focando em:
 <a href="https://www.linkedin.com/in/dominique-valter-530746216">
   <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<a href="mailto:dominiquevltr.contato@gmail.com">
+<a href="mailto:dominique.mariah.vltr@gmail.com">
   <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/SEU_ID">
-  <img src="https://img.shields.io/badge/Discord-18181b?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
 </p>
+
+<p align="center">
+  💬 Discord: sekhmet0191
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
