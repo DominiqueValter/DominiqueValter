@@ -1,4 +1,3 @@
-
 <p align="center">
   【
   <a href="https://github.com/DominiqueValter/DominiqueValter/blob/main/README.en.md">English</a> |
@@ -10,7 +9,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:18181b,100:7c3aed&text=Dominique%20Mariah%20Valter&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20•%20React%20•%20.NET%20•%20UI/UX&descAlignY=58"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Junior+Full+Stack+Developer;React+%7C+ASP.NET+Core+%7C+Node.js;UI%2FUX+and+Modern+Interfaces;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Junior+Full+Stack+Developer;React+%7C+ASP.NET+Core+%7C+PostgreSQL;Docker+%7C+Production+Deployment;Always+learning+something+new" />
 </p>
 
 ---
@@ -18,77 +17,58 @@
 # 👋 About Me
 
 ```txt
-💻 Systems Analysis and Development Student
-🚀 Full Stack Developer focused on web applications
+💻 Graduated in Systems Analysis and Development, currently studying Computer Science
+🚀 Full Stack Developer with experience in large-scale systems
 🎨 Interested in UI/UX and visual experiences
-🧠 Passionate about technology and problem solving
-📍 Curitiba - PR, Brazil
-````
+🧠 Passionate about technology and problem-solving
+📍 Curitiba - Brazil
+```
 
-Currently working as a Systems Development Intern at the Paraná State Department of Education, contributing to the development and maintenance of internal systems, bug fixing, technical support, and requirements gathering.
+I currently work as a Systems Development intern at the Paraná State Department of Education (DTI/CODIS), contributing to systems that serve the state's public education network — including platforms with over 1 million active users and large-scale administrative systems.
 
-I also have previous experience in the environmental field, where I developed organization, data analysis, and technical documentation skills — abilities that I now apply to software development and project management.
+I also build independent projects end-to-end, from front-end to production deployment, and have previous experience in the environmental field, where I developed skills in organization, data analysis, and technical documentation.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # ⚡ Highlights
 
-✔️ Systems Development Intern
-✔️ Experience with React and .NET
-✔️ Interested in UI/UX
-✔️ Knowledge of REST APIs
-✔️ Learning software architecture
+✔️ Full Stack Development Intern — contributing to large-scale systems  
+✔️ Experience with React, ASP.NET Core, and PostgreSQL  
+✔️ Containerization with Docker and production deployment (Railway)  
+✔️ Interest in UI/UX and software architecture  
+✔️ Paid freelance project delivered and live  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
+---
 
-# 🚀 Technologies
+# 🚀 Tech Stack
 
 <div align="center">
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
 ### Back-end
 <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,java" />
 
-### Database
-<img src="https://skillicons.dev/icons?i=mysql" />
+### Database & DevOps
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,figma" />
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
-# 📚 Currently Studying
-
-* React and ASP.NET Core
-* Layered Architecture
-* REST APIs
-* UI/UX
-* Clean Code
-* Front-end and Back-end Integration
-
----
-
-# 📊 Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DominiqueValter&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
-
 # 💼 Experience
 
-## Systems Development Intern — SEED/PR
+## Full Stack Development Intern — SEED-PR (DTI/CODIS)
 
-* Development and maintenance of internal systems
-* Bug fixing and feature improvements
-* Technical support for users and systems
-* Requirements gathering
-* Using React, JavaScript, C#, Node.js, HTML, and CSS
+* Contributed to large-scale systems: an educational platform with +1 million active users, an administrative system managing outsourced staff, and a university admissions platform
+* Fixed critical bugs and implemented new features
+* Built and integrated REST APIs
+* Gathered requirements with technical and non-technical stakeholders
+* Stack: C# (ASP.NET Core), React, JavaScript, HTML, CSS
 
 ---
 
@@ -98,25 +78,29 @@ I also have previous experience in the environmental field, where I developed or
 <tr>
 <td width="50%">
 
-## 🎵 Spotify Clone
+## 🚗 Fleet Management System
 
-Full Stack application inspired by Spotify using JavaScript, Node.js, HTML, and CSS.
+Full-stack fleet management system — vehicle registration, preventive maintenance scheduling, and driver assignment. Containerized with Docker and deployed to production.
 
-🔹 Responsive interface
-🔹 Front-end and Back-end integration
-🔹 Music player
+🔹 Full CRUD with EF Core  
+🔹 3 services in production (API + Front-end + PostgreSQL)  
+🔹 [Live Demo](https://fleet-management-dominique.up.railway.app)
+
+**Stack:** React · ASP.NET Core Web API · PostgreSQL · Docker
 
 </td>
 
 <td width="50%">
 
-## 🚗 Fleet Management System
+## 🌱 Atakama Environmental Solutions
 
-Vehicle management system using React, ASP.NET Core, and layered architecture.
+Institutional website for an environmental compliance consultancy. Paid freelance project, focused on a premium visual experience.
 
-🔹 Complete CRUD
-🔹 REST API
-🔹 Modern interface
+🔹 Fluid animations inspired by Apple's design patterns  
+🔹 Fully responsible for the Front-End  
+🔹 [View Site](https://atakamasolucoes.com)
+
+**Stack:** HTML · Advanced CSS · JavaScript
 
 </td>
 </tr>
@@ -124,26 +108,29 @@ Vehicle management system using React, ASP.NET Core, and layered architecture.
 <tr>
 <td width="50%">
 
-## 🌱 Atakama Engineering
+## 🎵 Spotify Clone
 
-Construction and project management system using TypeScript.
+Full-stack application inspired by Spotify.
 
-🔹 Project organization
-🔹 Information management
-🔹 Modern interface
+🔹 Responsive interface  
+🔹 Front-end and Back-end integration  
+🔹 Music player
+
+**Stack:** JavaScript · Node.js · HTML · CSS
 
 </td>
 
 <td width="50%">
 
-## 👩‍💻 In Development...
+## 💄 Morais Cosméticos (in progress)
 
-New projects are being developed focusing on:
+Complete e-commerce platform under development — store, payments, coupons, and loyalty program.
 
-🔹 React
-🔹 ASP.NET Core
-🔹 UI/UX
-🔹 Clean Architecture
+🔹 Backend with NestJS + Prisma  
+🔹 Pix/credit card payments  
+🔹 Automated NF-e (tax invoice) issuance
+
+**Stack:** React · NestJS · PostgreSQL
 
 </td>
 </tr>
@@ -153,44 +140,42 @@ New projects are being developed focusing on:
 
 # 🎓 Education
 
-* Systems Analysis and Development — UniCuritiba
-* Environmental Technician — CEEP Curitiba
-* 🏆 Final project recognized as the best in class
+* Bachelor's in Computer Science — UniCuritiba *(in progress)*
+* Associate Degree in Systems Analysis and Development — UniCuritiba
+* Technical Degree in Environmental Studies — CEEP Curitiba
+* 🏆 Capstone project recognized as the best in class
 
 ---
 
 # 🌎 Languages
 
-* English — Intermediate (B2)
-* Spanish — Intermediate (B2)
+* English — Intermediate
+* Spanish — Intermediate
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
 
 # 📬 Contact
 
 <p align="center">
-  💜 Always open to learning, collaborating, and developing new projects.
+  💜 Always open to learning, collaborating, and building new projects.
 </p>
 
 <p align="center">
 
 <a href="https://github.com/DominiqueValter">
-  <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="LINK_DO_SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/dominique-valter-530746216">
+  <img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-<a href="mailto:dominiquevltr.contato@gmail.com">
+<a href="mailto:dominique.mariah.vltr@gmail.com">
   <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/SEU_ID">
-  <img src="https://img.shields.io/badge/Discord-18181b?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
+<p align="center">
+  💬 Discord: sekhmet0191
+</p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18181b,100:7c3aed"/>
