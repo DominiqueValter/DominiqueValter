@@ -122,18 +122,6 @@ Aplicação full-stack inspirada no Spotify.
 
 <td width="50%">
 
-## 💄 Morais Cosméticos (em desenvolvimento)
-
-E-commerce completo em construção — loja, pagamentos, cupons e programa de fidelidade.
-
-🔹 Backend com NestJS + Prisma  
-🔹 Pagamentos via Pix/cartão  
-🔹 Emissão automatizada de NF-e
-
-**Stack:** React · NestJS · PostgreSQL
-
-</td>
-</tr>
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2"/>
